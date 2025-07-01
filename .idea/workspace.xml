@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="2a85f8e6-ce2a-4ce0-8679-3f9276b5a381" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/src/beginner/day05/나이출력.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner/day05/나이출력.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/beginner/day05/배열뒤집기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner/day05/배열뒤집기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/beginner/day05/아메리카노.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner/day05/아메리카노.java" afterDir="false" />
     </list>
+=======
+    <list default="true" id="2a85f8e6-ce2a-4ce0-8679-3f9276b5a381" name="Changes" comment="" />
+>>>>>>> caa017c977dac263ffe37595f47dcc983679979e
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
